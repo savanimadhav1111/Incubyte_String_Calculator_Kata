@@ -1,0 +1,1 @@
+# Incubyte_String_Calculator_Kata
